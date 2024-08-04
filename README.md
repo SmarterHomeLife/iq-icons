@@ -1,1 +1,1 @@
-Set of custom icons for Home Assistant
+Custom icons for Home Assistant
